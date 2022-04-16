@@ -6,7 +6,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsgurwns)](https://solved.ac/tjsgurwns)
 
 
-**seonhyeokjun/seonhyeokjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **seonhyeokjun/seonhyeokjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ -->
