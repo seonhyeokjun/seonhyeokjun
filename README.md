@@ -16,7 +16,7 @@
 * actuator
 
 ## DB
-* [Flyway를 도입해 보자](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Flyway.md#31-flyway-%EC%84%A4%EC%A0%95)
+* [Flyway를 도입해 보자]([https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Flyway.md#31-flyway-%EC%84%A4%EC%A0%95](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/DB/Flyway.md))
 
 ## Cloud
 
