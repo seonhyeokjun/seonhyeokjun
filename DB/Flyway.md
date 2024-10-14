@@ -23,7 +23,7 @@ Flyway는 데이터베이스 변경 사항을 추적하고 관리하며, 마이�
 - **다양한 데이터베이스 지원**: Flyway는 MySQL, PostgreSQL, Oracle, SQL Server 등 여러 데이터베이스를 지원한다.
 
 ## 3. 도입 방법
-Flyway를 프로젝트에 도입하는 방법은 간단합니다. 일반적으로 Spring Boot 프로젝트와 같이 사용되며, 아래 단계로 도입할 수 있다.
+Flyway를 프로젝트에 도입하는 방법은 간단하다. 일반적으로 Spring Boot 프로젝트와 같이 사용되며, 아래 단계로 도입할 수 있다.
 
 ### 3.1. Flyway 설정
 1. **Maven 또는 Gradle에 의존성 추가**:
