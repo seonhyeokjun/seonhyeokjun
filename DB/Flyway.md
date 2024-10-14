@@ -90,7 +90,7 @@ ALTER TABLE users ADD COLUMN age int;
 
 ### 3.4. **마이그레이션 명명 규칙**
 
-![migration naming](img/flywqyname.png)
+![migration naming](../img/flywqyname.png)
 
 기본적으로 Flyway의 마이그레이션 스크립트의 파일 이름 명명법은 위를 따른다. **숫자가 작은 버전의 마이그레이션부터 숫자가 큰 버전 순서대로 스크립트가 실행**된다.
 

@@ -10,15 +10,15 @@
 * 다른 개발자들과 지식을 공유하고 함께 성장하기 위함
 
 ## JAVA
+* 이미지 편집
 
-## Spring 
+## Spring
+* actuator
 
 ## DB
 * [Flyway를 도입해 보자](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Flyway.md#31-flyway-%EC%84%A4%EC%A0%95)
 
-## AWS
+## Cloud
 
 ## CS
-
-## 운영체제
 
