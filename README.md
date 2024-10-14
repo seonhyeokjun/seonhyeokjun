@@ -1,19 +1,10 @@
-### Hello World, I'm hyeok jun 👋
+# 깃허브 공부 기록 및 리팩토링 트러블 슈팅
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonhyeokjun)](https://github.com/seonhyeokjun/github-readme-stats)
+**이 레포지토리는 제가 공부한 내용을 기록하고, 리팩토링 과정에서 발생하는 문제들을 해결하는 과정을 담고 있습니다.**
 
+### 목표
 
-
-<!-- **seonhyeokjun/seonhyeokjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+* 꾸준히 학습한 내용을 정리하고 기억하기 위함
+* 효과적인 리팩토링 방법을 연구하고 적용하기 위함
+* 문제 해결 능력을 향상시키기 위함
+* 다른 개발자들과 지식을 공유하고 함께 성장하기 위함
