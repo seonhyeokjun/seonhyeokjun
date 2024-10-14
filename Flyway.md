@@ -65,19 +65,21 @@ Flyway를 프로젝트에 도입하는 방법은 간단합니다. 일반적으�
 ### 3.2   **JPA 엔티티 구조 변경**
 프로젝트를 지속적으로 개발하면서, 회원가입 시 나이 정보도 제공받게 되었다. JPA 엔티티 구조는 아래와 같이 변경된다.
 
-    ```java
-    @Entity
-    public class Users {
-    
-        @Id
-        @GeneratedValue(strategy = GenerationType.IDENTITY)
-        private Long id;
-    
-        private String name;
-        private String email;
-        private String password;
-        private Integer age; // 필드 추가
-    ```
+   ```java
+   @Entity
+   public class Users {
+   
+       @Id
+       @GeneratedValue(strategy = GenerationType.IDENTITY)
+       private Long id;
+   
+       private String name;
+       private String email;
+       private String password;
+       private Integer age; // 필드 추가
+   }
+   ```
+
 ### 3.3. **새로운 버전의 마이그레이션 스크립트 작성**
 
 새로운 버전의 마이그레이션 스크립트를 생성하여, 현재 데이터베이스 테이블의 스키마를 엔티티와 일치하도록 만들어보자. **`V2__add_age.sql`** 라는 이름으로 동일하게 **`src/main/resources/db/migration`** 디렉토리에 추가하고, 아래의 내용을 채워넣자.
