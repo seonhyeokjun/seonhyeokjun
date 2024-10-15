@@ -115,7 +115,7 @@ ALTER TABLE users ADD COLUMN age int;
 한번 **`V2__add_age.sql`** 을 제거하고, **`V1__init.sql`** 에 **`age`** 컬럼을 추가해보자 **`V1__init.sql`** 을 아래와 같이 변경하고, 애플리케이션을 실행해보자.
 
 ```sql
-CREATE TABLE member (
+CREATE TABLE users (
     id BIGINT AUTO_INCREMENT,
     name VARCHAR(255),
     email VARCHAR(255),
