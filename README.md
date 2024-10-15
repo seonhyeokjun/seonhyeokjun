@@ -13,7 +13,7 @@
 * 이미지 편집
 
 ## Spring
-* actuator
+* [actuator](https://github.com/seonhyeokjun/actuator)
 
 ## DB
 * [Flyway를 도입해 보자](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/DB/Flyway.md)
