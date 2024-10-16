@@ -10,7 +10,8 @@
 * 다른 개발자들과 지식을 공유하고 함께 성장하기 위함
 
 ## JAVA
-* 이미지 편집
+* [JWT](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/JWT.md)
+  * JWT Spring 적용해보자
 
 ## Spring
 * [actuator](https://github.com/seonhyeokjun/actuator)
