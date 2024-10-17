@@ -19,7 +19,7 @@
 ## DB
 * [Flyway를 도입해 보자](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/DB/Flyway.md)
 
-## Server
+## Server
 
 ## CS
 
