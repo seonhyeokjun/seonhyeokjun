@@ -11,7 +11,7 @@
 
 ## JAVA
 * [JWT](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/JWT.md)
-  * JWT Spring 적용해보자
+  * Spring 프로젝트에 JWT를 적용해보자
 
 ## Spring
 * [actuator](https://github.com/seonhyeokjun/actuator)
