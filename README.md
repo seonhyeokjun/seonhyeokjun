@@ -12,7 +12,7 @@
 ## JAVA
 * [JWT](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/JWT.md)
   * [Spring 프로젝트에 JWT를 적용해보자](https://github.com/seonhyeokjun/jwt-tutorial) 
-* SSE
+* 이미지 편집시 이미지가 회전되는 문제
 
 ## Spring
 * [actuator](https://github.com/seonhyeokjun/actuator)
