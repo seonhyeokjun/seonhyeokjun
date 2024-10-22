@@ -10,7 +10,7 @@
 * 다른 개발자들과 지식을 공유하고 함께 성장하기 위함
 
 ## JAVA
-* [이미지 편집시 이미지가 회전되는 문제](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/JAVA/이미지_편집시_이미지가_회전되는_문제.md)
+* [이미지 편집시 이미지가 회전되는 문제](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/java/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%8E%B8%EC%A7%91%EC%8B%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B0%80%20%ED%9A%8C%EC%A0%84%EB%90%98%EB%8A%94%20%EB%AC%B8%EC%A0%9C.md)
 
 ## Spring
 * [actuator](https://github.com/seonhyeokjun/actuator)
