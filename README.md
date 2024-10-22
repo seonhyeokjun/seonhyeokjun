@@ -10,12 +10,12 @@
 * 다른 개발자들과 지식을 공유하고 함께 성장하기 위함
 
 ## JAVA
-* [JWT](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/JWT.md)
-  * [Spring 프로젝트에 JWT를 적용해보자](https://github.com/seonhyeokjun/jwt-tutorial) 
-* 이미지 편집시 이미지가 회전되는 문제
+* [이미지 편집시 이미지가 회전되는 문제](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/JAVA/이미지_편집시_이미지가_회전되는_문제.md)
 
 ## Spring
 * [actuator](https://github.com/seonhyeokjun/actuator)
+* [JWT](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/JWT.md)
+  * [Spring 프로젝트에 JWT를 적용해보자](https://github.com/seonhyeokjun/jwt-tutorial)
 
 ## DB
 * [Flyway를 도입해 보자](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/DB/Flyway.md)
