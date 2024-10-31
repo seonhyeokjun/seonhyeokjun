@@ -13,7 +13,7 @@
 * [이미지 편집시 이미지가 회전되는 문제](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/java/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%8E%B8%EC%A7%91%EC%8B%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B0%80%20%ED%9A%8C%EC%A0%84%EB%90%98%EB%8A%94%20%EB%AC%B8%EC%A0%9C.md)
 
 ## Spring
-* [actuator](https://github.com/seonhyeokjun/actuator)
+* [Actuator](https://github.com/seonhyeokjun/actuator)
 * [JWT](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/JWT.md)
   * [Spring 프로젝트에 JWT를 적용해보자](https://github.com/seonhyeokjun/jwt-tutorial)
 * SSE
