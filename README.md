@@ -17,7 +17,7 @@
 * [JWT](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/JWT.md)
   * [Spring 프로젝트에 JWT를 적용해보자](https://github.com/seonhyeokjun/jwt-tutorial)
 * [SSE](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/SSE.md)
-  * SSE DB Connection 고갈 문제
+  * [SSE DB Connection 고갈 문제](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/SSE_DB_Connection_고갈_문제.md)
 
 ## DB
 * [Flyway를 도입해 보자](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/DB/Flyway.md)
