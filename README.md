@@ -4,8 +4,6 @@
 
 ### Backend Engineer · Payment & Fintech
 
-결제/정산 시스템을 확장 가능하고 장애에 강하게 만드는 6년차 백엔드 개발자입니다.
-
 [![Email](https://img.shields.io/badge/tjsrmatn@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:tjsrmatn@naver.com)
 
 </div>
