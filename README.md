@@ -1,29 +1,38 @@
-# 공부 기록 및 리팩토링 트러블 슈팅
+<div align="center">
 
-**공부한 내용을 기록하고, 개발 및 리팩토링 과정에서 발생하는 문제들을 해결하는 과정을 담고 있습니다.**
+# 👋 선혁준
 
-## 목표
+### Backend Engineer · Payment & Fintech
 
-* 꾸준히 학습한 내용을 정리하고 기억하기 위함
-* 효과적인 리팩토링 방법을 연구하고 적용하기 위함
-* 문제 해결 능력을 향상시키기 위함
-* 다른 개발자들과 지식을 공유하고 함께 성장하기 위함
+결제/정산 시스템을 확장 가능하고 장애에 강하게 만드는 6년차 백엔드 개발자입니다.
 
-## JAVA
-* [이미지 편집시 이미지가 회전되는 문제](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/java/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%8E%B8%EC%A7%91%EC%8B%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B0%80%20%ED%9A%8C%EC%A0%84%EB%90%98%EB%8A%94%20%EB%AC%B8%EC%A0%9C.md)
+[![Email](https://img.shields.io/badge/tjsrmatn@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:tjsrmatn@naver.com)
 
-## Spring
-* [Actuator](https://github.com/seonhyeokjun/actuator)
-* [JWT](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/JWT.md)
-  * [Spring 프로젝트에 JWT를 적용해보자](https://github.com/seonhyeokjun/jwt-tutorial)
-* [SSE](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/SSE.md)
-  * [SSE DB Connection 고갈 문제](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/SSE_DB_Connection_고갈_문제.md)
-* [오프라인 결제](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/Spring/%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8_%EA%B2%B0%EC%A0%9C.md)
+</div>
 
-## DB
-* [Flyway를 도입해 보자](https://github.com/seonhyeokjun/seonhyeokjun/blob/main/DB/Flyway.md)
+---
 
-## Server
+## 🛠 Tech Stack
 
-## CS
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+---
+
+## 💼 Experience
+
+| 기간 | 회사 | 역할 |
+|---|---|---|
+| 2025.10 ~ 2026.02 | **올라핀테크** | 올라 스쿼드 / 매니저 |
+| 2023.06 ~ 2025.10 | **페이쿼리** | 플랫폼 개발팀 / 대리 |
+| 2022.04 ~ 2023.06 | **텐소프트웍스** | 백엔드 개발팀 / 대리 |
+| 2021.11 ~ 2022.04 | **푸드나무** | 쇼핑몰 개발팀 / 프로 |
+| 2021.01 ~ 2021.07 | **유니포스트** | 솔루션 운영팀 / 대리 |
